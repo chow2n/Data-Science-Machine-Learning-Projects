@@ -1,4 +1,4 @@
-# Data-Science-Machine-Learning-Projects
+# Data Science Machine Learning Projects
 
 Here is a collection of the projects I've completed that relate to data sciences and machine learning.
 
