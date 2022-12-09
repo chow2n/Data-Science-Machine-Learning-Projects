@@ -4,9 +4,7 @@ Here is a collection of the projects I've completed that relate to data sciences
 
 <details>
 <summary>Technologies Utilized</summary>
-- NumPy
-- Pandas
-- Scikit-Learn
+NumPy, Pandas, Scikit-Learn, MatPlotLib, PySpark, AWS (EMR, Lambda, Glue)
 </details>
 
 ## Projects
